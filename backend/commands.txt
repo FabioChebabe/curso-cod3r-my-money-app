@@ -1,0 +1,2 @@
+sudo mongod -- para iniciar o mongod para bando de dados
+npm run productions -- para rodar o bakend da aplicaçao
